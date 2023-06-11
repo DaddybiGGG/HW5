@@ -36,4 +36,4 @@ def summa(a, b) -> int:
     else:
         return a
 
-print(summa(3, 5))
+print(summa(2, 2))
